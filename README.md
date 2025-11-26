@@ -1,1 +1,1 @@
-# trinity-hackathon
+# Trinity Hackathon
