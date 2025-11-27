@@ -6,6 +6,7 @@ export default function Home() {
     <div>
       <h1>Ancika Regmi</h1>
       rhishav monkey
+      idiotic person
     </div>
   );
 }
